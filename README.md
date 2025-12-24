@@ -18,28 +18,31 @@ payment patterns, and customer segmentation using RFM analysis.
 ## 🔍 Analyses Performed
 
 ### Case 1: Order Analysis
-- Monthly order distribution
-- Order status breakdown by month
-- Category-based order analysis
-- Orders by weekday and day of month
+- [Order Analysis SQL](sql/case_1_order_analysis.sql)
+  - Monthly order distribution
+  - Order status breakdown
+  - Category-based analysis
+  - Time-based order trends
 
 ### Case 2: Customer Analysis
-- Cities with the highest number of orders
-- Customer city defined by most frequent purchases
+- [Customer Analysis SQL](sql/case_2_customer_analysis.sql)
+  - City-based customer order analysis
 
 ### Case 3: Seller Analysis
-- Fastest delivery sellers (Top 5)
-- Seller ratings and order volumes
-- Sellers with the highest category diversity
+- [Seller Analysis SQL](sql/case_3_seller_analysis.sql)
+  - Fastest delivery sellers
+  - Seller ratings and order volume
+  - Category diversity analysis
 
 ### Case 4: Payment Analysis
-- Installment usage by region
-- Successful orders by payment type
-- Category-based installment analysis
+- [Payment Analysis SQL](sql/case_4_payment_analysis.sql)
+  - Installment usage by region
+  - Payment type performance
+  - Category-based installment analysis
 
 ### Case 5: RFM Analysis
-- Recency, Frequency, Monetary segmentation
-- Customer scoring using SQL
+- [RFM Analysis SQL](sql/case_5_rfm_analysis.sql)
+  - Customer segmentation using RFM methodology
 
 ## 🛠 Tools & Technologies
 - SQL (PostgreSQL syntax)
