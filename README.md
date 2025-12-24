@@ -50,7 +50,6 @@ payment patterns, and customer segmentation using RFM analysis.
 
 ## 📈 Output
 - SQL queries for each business question
-- Excel visualizations for trend analysis
 
 ## 👤 Author
 **Esra Telseren**  
